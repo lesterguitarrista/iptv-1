@@ -143,8 +143,16 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveGlobo.gt",Teve Globo (720p)
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
-#EXTINF:-1 tvg-id="TN23.gt",TN 23 (480p) [Not 24/7]
-https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
+https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=78.20.113.187/530dbe4bcae737e0c935666170e7d017129b3cd6eabc663b3167b3d0b8731d9b/feedlatino1/feedlatino1_abr/feedlatino1/feedlatino1_3/chunks.m3u8
+#EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="Totovision.gt",Totovisión (720p)
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-id="Tunevision.gt",Tunevisión (1080p) [Not 24/7]
